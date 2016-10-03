@@ -1,0 +1,3 @@
+Altan Sirel 0039353
+
+I've worked on this project alone, by myself. I've used google search a lot to understand nad implement my php codes. I've used the php session for convienience. So everytime a user hits logout the session is ended so when you logout or so, every information about your account is  gone. The struggles i had were not mostly about the queries but the php codes. I had a problem about the isset() method whic kept me workin for 2 days when i finaly realised it worked fine in the cluster but not when i open my php files in my browser. I had some difficulty with avarage serving time so i decided not to add it to my code. Othervwise i think my code works well.
